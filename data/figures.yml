@@ -88,32 +88,32 @@ figure_list:
   - id: "bloombannerimage"
     src: bloombannerimage.jpeg
     caption:
-    credit:
+    credit: Courtesy of the Artist and David Lewis, New York
   - id: "bloom3b"
     src: bloom3b-espritdeescalier.jpg
-    caption:
-    credit:
+    caption: Barbara Bloom, *Esprit de l'Escalier*, 1988. Mixed Media (3D), 124  x 174  x 564 inches.
+    credit: Collection of the San José Museum of Art. Gift of Peter and Eileen Norton. Photo by Douglas Sandberg
   - id: "bloom4a"
     src: bloom4a-aphilosophicalpractice.mp4
     caption:
-    credit:
+    credit: Video courtesy of KADIST
   - id: "bloom4b"
     src: bloom4b-balanceno1purpleheadstackfromtheseriesbroken.jpg
-    caption:
-    credit:
-  - id: "family"
-    src:
-    caption:
-    credit:
-  - id: "family"
-    src: figures/family.jpg
-    caption:
-    credit:
-  - id: "family"
-    src:
-    caption:
-    credit:
-  - id: "family"
-    src: 
-    caption:
-    credit:
+    caption: Barbara Bloom, *Balance,#1 (Purple Head Stack), 2001* Iris print in colored matte with broken glass embedded in Plexiglas, 41 1/8 x 31 1/8 x 2 inches, Edition of 3 + 2AP
+    credit: Courtesy the artist and David Lewis, New York
+  - id: "ourslerbannerimage"
+    src: ourslerbannerimage.jpg
+    caption: Members of The Poetics, Los Angeles, 1977.
+    credit: Photo: Jim Shaw. From left: John Arnheim, Bill Stobaugh, Mike Kelley, Tony Oursler, John Miller.
+  - id: "oursler3a"
+    src: oursler3a-videoprojectionsno59.mp4
+    caption: Tony Oursler, *Video Projections No. 59*, 2002
+    credit: Paul Tschinkel/Inner-Tude Video
+  - id: "oursler4a"
+    src: oursler4a-influencemachine7.jpg
+    caption: Tony Oursler, *The Influence Machine*,2000
+    credit: Commissioned and produced by Artangel. Photo by Dennis Crowley.
+  - id: "oursler5a"
+    src: oursler5a-slip.jpg
+    caption: Tony Oursler, *Slip*, 2003
+    credit: Tony Oursler, Slip, 2003. Sculpture, 43  x 35  x 15 in. Collection of the San José Museum of Art. Gift of the Lipman Family Foundation, in honor of the San Jose Museum of Art's 35th anniversary. Photo by Douglas Sandberg.
