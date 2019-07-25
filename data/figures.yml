@@ -85,4 +85,35 @@ figure_list:
     src: figures/family.jpg
     caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
     credit: The J. Paul Getty Museum, Los Angeles
-
+  - id: "bloombannerimage"
+    src: bloombannerimage.jpeg
+    caption:
+    credit:
+  - id: "bloom3b"
+    src: bloom3b-espritdeescalier.jpg
+    caption:
+    credit:
+  - id: "bloom4a"
+    src: bloom4a-aphilosophicalpractice.mp4
+    caption:
+    credit:
+  - id: "bloom4b"
+    src: bloom4b-balanceno1purpleheadstackfromtheseriesbroken.jpg
+    caption:
+    credit:
+  - id: "family"
+    src:
+    caption:
+    credit:
+  - id: "family"
+    src: figures/family.jpg
+    caption:
+    credit:
+  - id: "family"
+    src:
+    caption:
+    credit:
+  - id: "family"
+    src: 
+    caption:
+    credit:
