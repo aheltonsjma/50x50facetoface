@@ -1,5 +1,3 @@
-
-
 ---
 title: **BARBARA BLOOM**
 subtitle: United States, b. 1951
