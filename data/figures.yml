@@ -104,7 +104,7 @@ figure_list:
   - id: "ourslerbannerimage"
     src: ourslerbannerimage.jpg
     caption: Members of The Poetics, Los Angeles, 1977.
-    credit: Photo: Jim Shaw. From left: John Arnheim, Bill Stobaugh, Mike Kelley, Tony Oursler, John Miller.
+    credit: "Photo: Jim Shaw. From left: John Arnheim, Bill Stobaugh, Mike Kelley, Tony Oursler, John Miller."
   - id: "oursler3a"
     src: oursler3a-videoprojectionsno59.mp4
     caption: Tony Oursler, *Video Projections No. 59*, 2002
