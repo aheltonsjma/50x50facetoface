@@ -1,12 +1,11 @@
 ---
-label: Cat. 3
-title: Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-short_title: The Fields Family
-weight: 103
-object:
-  - id: 3
+label: Barbara Bloom
+title: **Balance No. 1 (Purple Head Stack) from the series Broken**
+short_title: Migrant Mother
 type: entry
-abstract:
+weight: 103
+class: side-by-side
+image: figures/bloom/bloom4b-balanceno1purpleheadstackfromtheseriesbroken.jpg
 ---
 
 **Balance No. 1 (Purple Head Stack) from the series Broken**

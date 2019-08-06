@@ -9,8 +9,8 @@
 # Title & Description
 # ------------------------------------------------------------------------------
 
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: 50X50
+subtitle: Face to Face
 reading_line:
 short_title:
 
@@ -32,10 +32,10 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
-    logo: logo-getty.png
+  - name: San José Museum of Art
+    location: San José, CA
+    url: sjmusart.org
+    logo: icons/sjmastackedlogo-white on orange.jpg
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -66,13 +66,13 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2019 San José Museum of Art
 
-license:
+license: icons/cc-by-nc-sa.png
   name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
+  abbreviation: CC BY NC SA
   url: http://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
