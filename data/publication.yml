@@ -69,10 +69,10 @@ contributor:
 copyright: © 2019 San José Museum of Art
 
 license:
-  - name: Creative Commons Attribution 4.0 International License
-    abbreviation: CC BY NC SA
-    url: http://creativecommons.org/licenses/by/4.0/
-    scope: text-only # full | text-only | some-exceptions
+  name: Creative Commons Attribution 4.0 International License
+  abbreviation: CC BY NC SA
+  url: http://creativecommons.org/licenses/by/4.0/
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
