@@ -1,5 +1,5 @@
 ---
-title: **TONY OURSLER**
+title: TONY OURSLER
 subtitle: United States, b. 1957
 weight: 200
 type: contents

@@ -1,5 +1,5 @@
 ---
-title: **BARBARA BLOOM**
+title: BARBARA BLOOM
 subtitle: United States, b. 1951
 weight: 100
 type: contents
