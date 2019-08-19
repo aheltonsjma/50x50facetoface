@@ -1,6 +1,6 @@
 ---
 title: Cover
-weight: 5
+weight: 604
 menu: false
 type: cover
 slug: .
