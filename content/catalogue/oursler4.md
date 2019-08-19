@@ -1,6 +1,6 @@
 ---
 label: Tony Oursler
-title: **Slip**
+title: Slip
 short_title:
 type: entry
 weight: 204

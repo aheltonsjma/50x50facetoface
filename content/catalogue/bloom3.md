@@ -1,6 +1,6 @@
 ---
 label: Barbara Bloom
-title: **Balance No. 1 (Purple Head Stack) from the series Broken**
+title: Balance No. 1 (Purple Head Stack) from the series Broken
 short_title: Migrant Mother
 type: entry
 weight: 103

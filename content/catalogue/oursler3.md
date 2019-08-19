@@ -1,6 +1,6 @@
 ---
 label: Tony Oursler
-title: **The Influencer Machine**
+title: The Influencer Machine
 short_title:
 type: entry
 weight: 203

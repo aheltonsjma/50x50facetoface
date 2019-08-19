@@ -1,6 +1,6 @@
 ---
 label: Barbara Bloom
-title: **Esprit de l'Escalier**
+title: Esprit de l'Escalier
 short_title:
 type: entry
 weight: 102

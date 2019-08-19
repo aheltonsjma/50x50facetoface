@@ -1,6 +1,6 @@
 ---
 label: Tony Oursler
-title: **Members of the Poetics**
+title: Members of the Poetics
 short_title:
 type: entry
 weight: 201

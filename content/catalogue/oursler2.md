@@ -1,6 +1,6 @@
 ---
 label: Tony Oursler
-title: **Video Projections No. 59**
+title: Video Projections No. 59
 short_title:
 type: entry
 weight: 202

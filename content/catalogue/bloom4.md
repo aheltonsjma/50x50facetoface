@@ -1,6 +1,6 @@
 ---
 label: Barbara Bloom
-title: **A Philosophical Practice**
+title: A Philosophical Practice
 short_title: Migrant Mother
 type: entry
 weight: 104

@@ -1,6 +1,6 @@
 ---
 label: Barbara Bloom
-title: **Portrait of Barbara Bloom**
+title: Portrait of Barbara Bloom
 short_title: Migrant Mother
 type: entry
 weight: 101
