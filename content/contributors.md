@@ -1,6 +1,6 @@
 ---
 title: Contributors
-weight: 603
+weight: 6
 type: page
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Bibliography
-weight: 601
+weight: 7
 type: page
 ---
 
