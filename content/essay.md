@@ -2,7 +2,7 @@
 label: I
 title: American Photographs
 subtitle: Evans in Middletown
-weight: 2
+weight: 6
 type: essay
 class: page-one
 contributor:
