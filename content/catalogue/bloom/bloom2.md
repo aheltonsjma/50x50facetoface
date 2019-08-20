@@ -1,5 +1,5 @@
 ---
-label: Barbara Bloom
+label: Bloom 3B
 title: Esprit de l'Escalier
 short_title:
 type: entry

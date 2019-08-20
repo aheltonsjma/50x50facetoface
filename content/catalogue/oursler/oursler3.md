@@ -1,9 +1,9 @@
 ---
-label: Tony Oursler
+label: Oursler 4A
 title: The Influencer Machine
 short_title:
 type: entry
-weight: 203
+weight: 204
 class: side-by-side
 image: figures/oursler/oursler4a-influencemachine7.jpg
 ---

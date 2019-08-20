@@ -1,5 +1,5 @@
 ---
-label: Tony Oursler
+label: Oursler Banner
 title: Members of the Poetics
 short_title:
 type: entry

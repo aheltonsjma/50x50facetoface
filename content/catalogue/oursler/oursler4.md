@@ -1,9 +1,9 @@
 ---
-label: Tony Oursler
+label: Oursler 5A
 title: Slip
 short_title:
 type: entry
-weight: 204
+weight: 203
 class: side-by-side
 image: figures/oursler/oursler5a-slip.jpg
 ---
