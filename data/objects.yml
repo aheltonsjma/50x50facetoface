@@ -5,7 +5,7 @@ object_display_order:
   - medium
   - location
 object_list:
-  - id:
+  - id: "bloombannerimage"
     title:
     artist:
     year:
@@ -17,7 +17,7 @@ object_list:
       - id:
       - id:
       - id:
-  - id:
+  - id: "bloom3b"
     title:
     artist:
     year:
@@ -27,7 +27,7 @@ object_list:
     link:
     figure:
       - id:
-  - id:
+  - id: "bloom4a"
     title:
     artist:
     year:
@@ -37,7 +37,7 @@ object_list:
     link:
     figure:
       - id:
-  - id:
+  - id: "bloom4b"
     title:
     artist:
     year:
@@ -46,4 +46,44 @@ object_list:
     location:
     link:
     figure:
-      - id:
+      -id:
+  - id: "ourslerbannerimage"
+      title:
+      artist:
+      year:
+      medium:
+      dimensions:
+      location:
+      link:
+      figure:
+        - id:
+  - id: "oursler3a"
+      title:
+      artist:
+      year:
+      medium:
+      dimensions:
+      location:
+      link:
+      figure:
+        - id:
+  - id: "oursler4a"
+      title:
+      artist:
+      year:
+      medium:
+      dimensions:
+      location:
+      link:
+      figure:
+        - id:
+  - id: "oursler5a"
+      title:
+      artist:
+      year:
+      medium:
+      dimensions:
+      location:
+      link:
+      figure:
+        - id:
