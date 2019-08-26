@@ -6,7 +6,7 @@ type: entry
 weight: 203
 class: side-by-side
 object:
-    id: figures/oursler/oursler5a-slip.jpg
+  - id: figures/oursler/oursler5a-slip.jpg
 ---
 With blinking eyes and whispering lips, Tony Oursler’s projections of faces onto fiberglass sculptures create lifelike figures that make media imagery tangible. Despite the alien forms of these “electronic effigies”[^1]—as in the green, S-shaped *Slip* (2003)—their facial expressions and language communicate. Oursler’s scripts sound like stream-of-consciousness ramblings or, as he describes, “a sort of babble, like someone’s in a therapy session,”[^2] initiating unfinished narratives that the viewer is left to complete. Mirroring human struggle and humor, they play on human empathy; like film and television characters with whom we bond, they invite our affinity.[^3]
 
