@@ -14,7 +14,7 @@ object_list:
     location:
     link:
     figure:
-      - id:"bloombannerimage"
+      - id: "bloombannerimage"
   - id: "bloom3b"
     title:
     artist:
