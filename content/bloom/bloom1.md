@@ -5,7 +5,7 @@ short_title:
 type: entry
 weight: 101
 class: side-by-side
-figure:
+object:
   - id: "bloombannerimage"
 ---
 Growing up in Los Angeles, conceptual artist Barbara Bloom loved when her parents drove by the “Open 24 hours, When It’s Tomorrow, It’s Today” sign at Denny’s restaurant.[^1] Even as a young girl, Bloom was drawn to this casual folding of space and time, a philosophy embodied in her quiet, or unassuming, yet intricately designed installation practice that builds fictive worlds within worlds within worlds. The artist describes her often domestic-feeling interior spaces “like a movie set,”[^2] in which objects with assorted histories and styles evoke specific anecdotes. However, she teases out their eccentricities and poetry to build layered meaning. Bloom never tells a complete or straightforward story. Rather, her works imply potential narratives to be completed by the viewer.
