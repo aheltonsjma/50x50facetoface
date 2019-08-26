@@ -5,7 +5,8 @@ short_title:
 type: entry
 weight: 201
 class: side-by-side
-image: figures/oursler/ourslerbannerimage.jpg
+object:
+    id: figures/oursler/ourslerbannerimage.jpg
 ---
 Tony Oursler began making experimental single-channel videos while studying at California Institute of the Arts (CalArts) in the late 1970s. He and a group of CalArts peers shared a “kaleidoscopic” approach to artmaking—a kind of interdisciplinary enterprise that encompasses music, text, images, sculpture, and performance.[^1] For his videos, Oursler wrote scripts and constructed characters from modest and often strange found materials—like kitchen spoons, bits of toilet paper, or painted cardboard—animating them within handpainted sets. The school’s outmoded Sony Portapak video cameras yielded fuzzy images with ghostly streaks that intrigued Oursler.[^2] Amusing, disorienting, and with an intentionally low-budget aesthetic, his surreal videos challenge the seamless editing of Hollywood productions, which slickly dissolve the distinctions between reality and media image.
 
