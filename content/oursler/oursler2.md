@@ -6,7 +6,7 @@ type: entry
 weight: 202
 class: side-by-side
 object:
-  - id: figures/oursler/oursler3a-videoprojectionsno59.mp4
+  - id: "oursler3a"
 ---
 Tony Oursler thinks of television and film like psychedelic drugs that induce a dream space, parallel to reality. Calling them “mimetic technology”[^1]—a term he borrows from pharmacology to describe drugs that emulate human consciousness—he is interested in the way television, film, and media imagery mimic human thought to engender seemingly real emotions. Oursler came to this realization watching a lot of television as a teenager. Influenced by his magician grandfather Fulton Oursler, he developed an understanding of how mimetic technology, through close approximation of reality, has the power to also alter our perception.[^2]
 
