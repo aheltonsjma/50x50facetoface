@@ -14,9 +14,7 @@ object_list:
     location:
     link:
     figure:
-      - id:
-      - id:
-      - id:
+      - id:"bloombannerimage"
   - id: "bloom3b"
     title:
     artist:
@@ -26,7 +24,7 @@ object_list:
     location:
     link:
     figure:
-      - id:
+      - id:"bloom3b"
   - id: "bloom4a"
     title:
     artist:
@@ -36,7 +34,7 @@ object_list:
     location:
     link:
     figure:
-      - id:
+      - id:"bloom4a"
   - id: "bloom4b"
     title:
     artist:
@@ -46,7 +44,7 @@ object_list:
     location:
     link:
     figure:
-      - id:
+      - id:"bloom4b"
   - id: "ourslerbannerimage"
     title:
     artist:
@@ -56,7 +54,7 @@ object_list:
     location:
     link:
     figure:
-      - id:
+      - id:"ourslerbannerimage"
   - id: "oursler3a"
     title:
     artist:
@@ -66,7 +64,7 @@ object_list:
     location:
     link:
     figure:
-      - id:
+      - id:"oursler3a"
   - id: "oursler4a"
     title:
     artist:
@@ -76,7 +74,7 @@ object_list:
     location:
     link:
     figure:
-      - id:
+      - id:"oursler4a"
   - id: "oursler5a"
     title:
     artist:
@@ -86,4 +84,4 @@ object_list:
     location:
     link:
     figure:
-      - id:
+      - id:"oursler5a"
