@@ -1,6 +1,6 @@
 ---
 label: Director's Foreword
-title:
+title: An Essay by Sayre
 subtitle:
 weight: 5
 type: essay
