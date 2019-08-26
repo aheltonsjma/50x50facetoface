@@ -1,3 +1,14 @@
+---
+label: Steinkamp Banner
+title: **Born into the Machine Age**
+short_title:
+type: entry
+weight: 301
+class: side-by-side
+object:
+  - id:
+---
+
 \[portrait of artist in front of flower projection\]
 
 **Breaking** **Boundaries**

@@ -1,7 +1,12 @@
-**JENNIFER STEINKAMP**
-
-United States, b. 1958
-
+---
+title: JENNIFER STEINKAMP
+subtitle: United States, b. 1958
+weight: 300
+type: contents
+class: grid
+epub: false
+slug: .
+---
 “I began as someone who deeply appreciated abstract art. Loops seemed to be a way to work with abstraction and less representational forms.” 
 
 —Jennifer Steinkamp[^1]

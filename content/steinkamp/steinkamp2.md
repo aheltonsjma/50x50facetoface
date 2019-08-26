@@ -1,3 +1,14 @@
+---
+label: Steinkamp 3B
+title: **Sympathetic Image**
+short_title:
+type: entry
+weight: 301
+class: side-by-side
+object:
+  - id:
+---
+
 \[*Fly to Mars* video\]
 
 **Sympathetic Image**
