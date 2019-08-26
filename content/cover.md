@@ -5,5 +5,6 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: pattern-spiral-overlay.png
+image: static/img/contributors/sjma50x50coverimage.jpg
 ---
+Insert cover info here.
