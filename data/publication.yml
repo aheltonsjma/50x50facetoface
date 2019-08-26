@@ -35,7 +35,7 @@ publisher:
   - name: San José Museum of Art
     location: San José, CA
     url: sjmusart.org
-    logo: static/img/stackedlogowhiteonorange.jpg
+    logo: stacked-logo-white-on-orange.jpg
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -144,4 +144,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: sjma50x50coverimage.jpg
+promo_image: sjma-50x50-cover-image.jpg
