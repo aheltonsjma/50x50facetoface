@@ -46,44 +46,44 @@ object_list:
     location:
     link:
     figure:
-      -id:
+      - id:
   - id: "ourslerbannerimage"
-      title:
-      artist:
-      year:
-      medium:
-      dimensions:
-      location:
-      link:
-      figure:
-        - id:
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id:
   - id: "oursler3a"
-      title:
-      artist:
-      year:
-      medium:
-      dimensions:
-      location:
-      link:
-      figure:
-        - id:
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id:
   - id: "oursler4a"
-      title:
-      artist:
-      year:
-      medium:
-      dimensions:
-      location:
-      link:
-      figure:
-        - id:
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id:
   - id: "oursler5a"
-      title:
-      artist:
-      year:
-      medium:
-      dimensions:
-      location:
-      link:
-      figure:
-        - id:
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id:
