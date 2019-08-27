@@ -3,7 +3,7 @@ label: Steinkamp 5A
 title: **Transforming Architecture**
 short_title:
 type: entry
-weight: 301
+weight: 404
 class: side-by-side
 object:
   - id:

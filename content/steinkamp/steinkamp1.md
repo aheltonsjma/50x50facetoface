@@ -3,7 +3,7 @@ label: Steinkamp Banner
 title: **Born into the Machine Age**
 short_title:
 type: entry
-weight: 301
+weight: 401
 class: side-by-side
 object:
   - id:

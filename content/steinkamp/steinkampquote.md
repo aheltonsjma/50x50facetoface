@@ -1,7 +1,7 @@
 ---
 title: JENNIFER STEINKAMP
 subtitle: United States, b. 1958
-weight: 300
+weight: 400
 type: contents
 class: grid
 epub: false

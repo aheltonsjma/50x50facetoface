@@ -3,7 +3,7 @@ label: Oursler 4A
 title: The Influencer Machine
 short_title:
 type: entry
-weight: 204
+weight: 203
 class: side-by-side
 object:
   - id: "oursler4a"

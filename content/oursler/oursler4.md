@@ -3,7 +3,7 @@ label: Oursler 5A
 title: Slip
 short_title:
 type: entry
-weight: 203
+weight: 204
 class: side-by-side
 object:
   - id: "oursler5a"

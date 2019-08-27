@@ -3,7 +3,7 @@ label: Steinkamp 3B
 title: **Sympathetic Image**
 short_title:
 type: entry
-weight: 301
+weight: 402
 class: side-by-side
 object:
   - id:
