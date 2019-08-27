@@ -1,6 +1,6 @@
 ---
 label: Steinkamp 4A
-title: **The Body is a Canvas**
+title: The Body is a Canvas
 short_title:
 type: entry
 weight: 403

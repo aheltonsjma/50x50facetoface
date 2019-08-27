@@ -1,6 +1,6 @@
 ---
 label: Steinkamp 5A
-title: **Transforming Architecture**
+title: Transforming Architecture
 short_title:
 type: entry
 weight: 404
