@@ -1,6 +1,6 @@
 ---
 label: Rath 3A
-title: **Symbols of Sentience**
+title: Symbols of Sentience
 short_title:
 type: entry
 weight: 304

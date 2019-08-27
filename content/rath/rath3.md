@@ -1,6 +1,6 @@
 ---
 label: Rath 4A
-title: **Systems Logic**
+title: Systems Logic
 short_title:
 type: entry
 weight: 303

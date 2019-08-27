@@ -1,6 +1,6 @@
 ---
 label: Rath Banner
-title: **Born into the Machine Age**
+title: Born into the Machine Age
 short_title:
 type: entry
 weight: 301

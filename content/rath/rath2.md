@@ -1,6 +1,6 @@
 ---
 label: Rath 5A
-title: **Robot Improv**
+title: Robot Improv
 short_title:
 type: entry
 weight: 302
