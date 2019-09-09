@@ -12,4 +12,4 @@
 # Use these settings for GH Pages
 
 baseURL: "https://aheltonsjma.github.io/50x50facetoface/" # Needs trailing slash
-canonifyURLs: false
+canonifyURLs: true
