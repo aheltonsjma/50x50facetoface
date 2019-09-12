@@ -31,3 +31,35 @@ figure_list:
     src: figures/oursler/oursler5a-slip.jpg
     caption: Tony Oursler, *Slip*, 2003
     credit: Tony Oursler, Slip, 2003. Sculpture, 43 x 5 x 15 in. Collection of the San José Museum of Art. Gift of the Lipman Family Foundation, in honor of the San Jose Museum of Art's 35th anniversary. Photo by Douglas Sandberg.
+  - id: "rathbannerimage"
+    src: figures/rath/rathbannerimage.jpg
+    caption: Rath Working in his Oakland Studio
+    credit: © Klaus Tilman, 2010
+  - id: "rath5a"
+    src: figures/rath/rath5a-johnworleyjazz.mp4
+    caption: John Worley Jazz Improvisation
+    credit: Courtesy of the San José Museum of Art.
+  - id: "rath4a"
+    src: figures/rath/rath4a-infoglut.jpg
+    caption: Info Glut II
+    credit: Courtesy of the San José Museum of Art. Photograph by Douglas Sandberg.
+  - id: "rath3a"
+    src: figures/rath/rath3a-thumperv
+    caption: Thumper V
+    credit: Courtesy of the San José Museum of Art. Photograph by Douglas Sandberg.
+  - id: "steinkampbannerimage"
+    src: figures/steinkamp/steinkampbannerimage.jpg
+    caption: Steinkamp with Bouquet 1
+    credit: Photo: Jessica Hromas
+  - id: "steinkamp3b"
+    src: figures/steinkamp/steinkamp3b-flytomars.mp4
+    caption: Fly to Mars No. 1
+    credit: Courtesy of Jennifer Steinkamp, Lehmann Maupin, New York, Hong Kong, and greengrassi, London.
+  - id: "steinkamp4a"
+    src: figures/steinkamp/steinkamp4a-winterfoundations.jpg
+    caption: Winter Foundations
+    credit: Video by Greenhouse Media, Philadephia.
+  - id: "steinkamp5a"
+    src: figures/steinkamp/steinkamp5a-onesawtheothersaw.jpg
+    caption: One Saw; The Other Saw Installation
+    credit: Courtesy Jennifer Steinkamp, Rice University, Houston Texas, Lehmann Maupin, New York, Hong Kong and greengrassi, London. 
