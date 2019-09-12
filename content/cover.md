@@ -5,6 +5,6 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: pattern-spiral-overlay.png
+image: 50x50coverimg.jpg
 ---
 Insert cover info here.
