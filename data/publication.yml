@@ -144,4 +144,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: sjma-50x50-cover-image.jpg
+promo_image: themes/quire-starter-theme/source/img/50x50coverimg.jpg
