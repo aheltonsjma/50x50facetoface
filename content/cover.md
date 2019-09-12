@@ -5,6 +5,6 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: 50x50coverimg.jpg
+image: static/img/coverimage.jpg
 ---
 Insert cover info here.
