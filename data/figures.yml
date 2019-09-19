@@ -50,7 +50,7 @@ figure_list:
   - id: "steinkampbannerimage"
     src: figures/steinkamp/steinkampbannerimage.jpg
     caption: Steinkamp with Bouquet 1
-    credit: Photo: Jessica Hromas
+    credit: "Photo: Jessica Hromas"
   - id: "steinkamp3b"
     src: figures/steinkamp/steinkamp3b-flytomars.mp4
     caption: Fly to Mars No. 1
@@ -62,4 +62,4 @@ figure_list:
   - id: "steinkamp5a"
     src: figures/steinkamp/steinkamp5a-onesawtheothersaw.jpg
     caption: One Saw; The Other Saw Installation
-    credit: Courtesy Jennifer Steinkamp, Rice University, Houston Texas, Lehmann Maupin, New York, Hong Kong and greengrassi, London. 
+    credit: Courtesy Jennifer Steinkamp, Rice University, Houston Texas, Lehmann Maupin, New York, Hong Kong and greengrassi, London.
