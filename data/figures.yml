@@ -9,6 +9,8 @@ figure_list:
     credit: Collection of the San José Museum of Art. Gift of Peter and Eileen Norton. Photo by Douglas Sandberg
   - id: "bloom4a"
     src: figures/bloom/bloom4a-aphilosophicalpractice.mp4
+    media_id: 284543777
+    media_type: vimeo
     caption:
     credit: Video courtesy of KADIST
   - id: "bloom4b"
@@ -21,6 +23,8 @@ figure_list:
     credit: "Photo: Jim Shaw. From left: John Arnheim, Bill Stobaugh, Mike Kelley, Tony Oursler, John Miller."
   - id: "oursler3a"
     src: figures/oursler/oursler3a-videoprojectionsno59.mp4
+    media_id: 293660704
+    media_type: vimeo
     caption: Tony Oursler, *Video Projections No. 59*, 2002
     credit: Paul Tschinkel/Inner-Tude Video
   - id: "oursler4a"

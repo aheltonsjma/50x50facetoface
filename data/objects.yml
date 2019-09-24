@@ -41,7 +41,7 @@ object_list:
     year:
     medium:
     dimensions:
-    location:
+    location: https://vimeo.com/showcase/5125379/video/284543777
     link:
     figure:
       - id: "bloom4b"
@@ -61,7 +61,7 @@ object_list:
     year:
     medium:
     dimensions:
-    location:
+    location: https://vimeo.com/293660704
     link:
     figure:
       - id: "oursler3a"
