@@ -41,6 +41,8 @@ figure_list:
     credit: © Klaus Tilman, 2010
   - id: "rath5a"
     src: figures/rath/rath5a-johnworleyjazz.mp4
+    media_id: 294476061
+    media_type: vimeo
     caption: John Worley Jazz Improvisation
     credit: Courtesy of the San José Museum of Art.
   - id: "rath4a"
@@ -57,10 +59,14 @@ figure_list:
     credit: "Photo: Jessica Hromas"
   - id: "steinkamp3b"
     src: figures/steinkamp/steinkamp3b-flytomars.mp4
+    media_id: 362171352
+    media_type: vimeo
     caption: Fly to Mars No. 1
     credit: Courtesy of Jennifer Steinkamp, Lehmann Maupin, New York, Hong Kong, and greengrassi, London.
   - id: "steinkamp4a"
-    src: figures/steinkamp/steinkamp4a-winterfoundations.jpg
+    src: figures/steinkamp/steinkamp4a-winterfoundations.mp4
+    media_id: 294065168
+    media_type: vimeo
     caption: Winter Foundations
     credit: Video by Greenhouse Media, Philadephia.
   - id: "steinkamp5a"
