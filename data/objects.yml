@@ -85,3 +85,83 @@ object_list:
     link:
     figure:
       - id: "oursler5a"
+  - id: "rathbannerimage"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "rathbannerimage"
+  - id: "rath5a"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "rath5a"
+  - id: "rath4a"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "rath4a"
+  - id: "rath3a"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "rath3a"
+  - id: "steinkampbannerimage"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "steinkampbannerimage"
+  - id: "steinkamp3b"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "steinkamp3b"
+  - id: "steinkamp4a"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "steinkamp4a"
+  - id: "steinkamp5a"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "steinkamp5a"
