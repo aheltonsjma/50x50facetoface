@@ -3,7 +3,7 @@ label: Steinkamp 4A
 title: The Body is a Canvas
 short_title:
 type: entry
-weight: 403
+weight: 593
 class: side-by-side
 object:
   - id: "steinkamp4a"

@@ -1,7 +1,7 @@
 ---
 title: BARBARA BLOOM
 subtitle: United States, b. 1951
-weight: 100
+weight: 290
 type: contents
 class: grid
 epub: false

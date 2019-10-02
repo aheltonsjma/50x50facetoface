@@ -1,7 +1,7 @@
 ---
 title: ALAN RATH
 subtitle: United States, b. 1959
-weight: 300
+weight: 560
 type: contents
 class: grid
 epub: false

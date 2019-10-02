@@ -3,7 +3,7 @@ label: Bloom 4B
 title: Balance No. 1 (Purple Head Stack) from the series Broken
 short_title:
 type: entry
-weight: 103
+weight: 293
 class: side-by-side
 object:
   - id: "bloom4b"

@@ -3,7 +3,7 @@ label: Oursler 3A
 title: Video Projections No. 59
 short_title:
 type: entry
-weight: 202
+weight: 552
 class: side-by-side
 object:
   - id: "oursler3a"

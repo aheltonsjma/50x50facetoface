@@ -3,7 +3,7 @@ label: Oursler Banner
 title: Members of the Poetics
 short_title:
 type: entry
-weight: 201
+weight: 551
 class: side-by-side
 object:
   - id: "ourslerbannerimage"

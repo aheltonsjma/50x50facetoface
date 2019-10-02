@@ -1,7 +1,7 @@
 ---
 title: TONY OURSLER
 subtitle: United States, b. 1957
-weight: 200
+weight: 550
 type: contents
 class: grid
 epub: false

@@ -3,7 +3,7 @@ label: Steinkamp Banner
 title: Breaking Boundaries
 short_title:
 type: entry
-weight: 401
+weight: 591
 class: side-by-side
 object:
   - id: "steinkampbannerimage"

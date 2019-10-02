@@ -3,7 +3,7 @@ label: Rath 4A
 title: Systems Logic
 short_title:
 type: entry
-weight: 303
+weight: 563
 class: side-by-side
 object:
   - id: "rath4a"

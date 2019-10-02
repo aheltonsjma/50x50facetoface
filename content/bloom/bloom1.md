@@ -3,7 +3,7 @@ label: Bloom Banner
 title: Portrait of Barbara Bloom
 short_title:
 type: entry
-weight: 101
+weight: 291
 class: side-by-side
 object:
   - id: "bloombannerimage"

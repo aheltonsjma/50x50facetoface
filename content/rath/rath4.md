@@ -3,7 +3,7 @@ label: Rath 3A
 title: Symbols of Sentience
 short_title:
 type: entry
-weight: 304
+weight: 564
 class: side-by-side
 object:
   - id: "rath3a"

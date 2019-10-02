@@ -3,7 +3,7 @@ label: Bloom 4A
 title: A Philosophical Practice
 short_title:
 type: entry
-weight: 104
+weight: 294
 class: side-by-side
 object:
   - id: "bloom4a"

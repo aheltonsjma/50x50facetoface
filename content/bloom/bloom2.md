@@ -3,7 +3,7 @@ label: Bloom 3B
 title: Esprit de l'Escalier
 short_title:
 type: entry
-weight: 102
+weight: 292
 class: side-by-side
 object:
   - id: "bloom3b"

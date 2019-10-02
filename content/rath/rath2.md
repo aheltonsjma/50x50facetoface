@@ -3,7 +3,7 @@ label: Rath 5A
 title: Robot Improv
 short_title:
 type: entry
-weight: 302
+weight: 562
 class: side-by-side
 object:
   - id: "rath5a"
