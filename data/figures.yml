@@ -71,7 +71,7 @@ figure_list:
     credit: Video by Greenhouse Media, Philadephia.
   - id: "steinkamp5a"
     src: figures/steinkamp/steinkamp5a-onesawtheothersaw.jpg
-    caption: One Saw; The Other Saw Installation
+    caption: *One Saw; The Other Saw Installation*
     credit: Courtesy Jennifer Steinkamp, Rice University, Houston Texas, Lehmann Maupin, New York, Hong Kong and greengrassi, London.
   - id: "asawa1a"
     src: figures/asawa/asawa1a-asawaworking.jpg
