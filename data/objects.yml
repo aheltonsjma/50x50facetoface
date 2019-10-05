@@ -165,3 +165,53 @@ object_list:
     link:
     figure:
       - id: "steinkamp5a"
+  - id: "asawa1a"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "asawa1a"
+  - id: "asawa2a"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "asawa2a"
+  - id: "asawa3a"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "asawa3a"
+  - id: "asawa3b"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "asawa3b"
+  - id: "asawa5d"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "asawa5d"
