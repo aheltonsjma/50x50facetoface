@@ -93,6 +93,38 @@ figure_list:
     src: figures/asawa/asawa5d-internmentmemorial.jpg
     caption: More than 200 people gathered on March 5, 1994 to see the unveiling and dedication of Asawa’s memorial. Ruth Asawa Papers, M1585: Box X, Folder Y. Courtesy of the Department of Special Collections, Stanford Libraries.
     credit: Artwork © Estate of Ruth Asawa. Photo: Fay Royal Baxter
+  - id: "hawkinson3a"
+    src: figures/hawkinson/hawkinson3a-uberorgan.mp4
+    caption: Tim Hawkinson, *Uberorgan*, 2007
+    credit: Video: Produced in 2007 by the J. Paul Getty Museum. Andrea Nasher Collection
+  - id: "hawkinson4a"
+    src: figures/hawkinson/hawkinson4a-scout.jpg
+    caption: Tim Hawkinson, *Scout*, 2006-2007
+    credit:
+  - id: "hawkinson5d"
+    src: figures/hawkinson/hawkinson5d-emoterdetail.jpg
+    caption: Tim Hawksinon, *Detail of Emoter*, 2000
+    credit:
+  - id: "hawkinsonbanner"
+    src: figures/hawkinson/hawkinsonbanner.jpeg
+    caption: Portrait of Tim Hawkinson
+    credit:
+  - id: "thater3a"
+    src: figures/thater/thater3a-untitledbutterflyvideowall.jpg
+    caption: Diana Thater, *Untitled (Butterfly Videowall No. 2)*, 2008
+    credit: 
+  - id: "thater 4d"
+    src: figures/thater/thater4d-lacma.jpg
+    caption: Diana Thater, *Delphine*, 2015
+    credit:
+  - id: "thater5a"
+    src: figures/thater/thater5a-sjmacreativeminds.mp4
+    caption: Diana Thater Creative Minds, 2015
+    credit:
+  - id: "thaterbanner"
+    src: figures/thater/thaterbannerimage.jpg
+    caption:
+    credit:
   - id:
     src:
     caption:

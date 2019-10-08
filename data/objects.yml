@@ -215,3 +215,83 @@ object_list:
     link:
     figure:
       - id: "asawa5d"
+  - id: "hawkinson3a"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "hawkinson3a"
+  - id: "hawkinson4a"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "hawkinson4a"
+  - id: "hawkinson5d"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "hawkinson5d"
+  - id: "hawkinsonbannerimage"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "hawkinsonbannerimage"
+  - id: "thater3a"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "thater3a"
+  - id: "thater4d"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "thater4d"
+  - id: "thater5d"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "thater5d"
+  - id: "thaterbannerimage"
+    title:
+    artist:
+    year:
+    medium:
+    dimensions:
+    location:
+    link:
+    figure:
+      - id: "thaterbannerimage"
